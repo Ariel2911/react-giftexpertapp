@@ -4,4 +4,8 @@ body {
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
     padding: 0.5vw;
+    background-color: rgb(200, 200, 200);
 }
+ h2{
+   color: red;
+ }

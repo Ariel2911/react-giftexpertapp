@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba del componete GifGridItem Debe de mostrar el componente correctamente 1`] = `
+<div
+  style={
+    Object {
+      "border": "1px solid black",
+      "borderRadius": "8px",
+      "display": "flex",
+      "flexDirection": "column",
+      "height": "160px",
+      "margin": "4px",
+      "width": "150px",
+    }
+  }
+>
+  <img
+    alt="Un Titulo"
+    src="http://localhost/algo.jpg"
+    style={
+      Object {
+        "height": "75%",
+        "width": "100%",
+      }
+    }
+  />
+  <p
+    style={
+      Object {
+        "height": "25%",
+        "margin": "0",
+        "overflow": "hidden",
+        "textAlign": "center",
+      }
+    }
+  >
+    Un Titulo
+  </p>
+</div>
+`;
